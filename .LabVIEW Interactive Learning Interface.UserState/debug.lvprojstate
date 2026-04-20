@@ -1,0 +1,66 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Brightcoveload.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2562"/>
+          <SignalUID value="1947"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Untitled 1">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="339"/>
+          <SignalUID value="323"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Zero cross python v1.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1482"/>
+          <SignalUID value="1740"/>
+          <SignalUID value="1864"/>
+          <SignalUID value="3259"/>
+        </Generic>
+        <Custom>
+          <Probe signalUID="1956" menuID="186" itemID="2" path="C:\Program Files\National Instruments\LabVIEW 2026\vi.lib\_probes\default\AnalogWaveformProbe_DBL.vi"/>
+          <Probe signalUID="3951" menuID="186" itemID="2" path="C:\Program Files\National Instruments\LabVIEW 2026\vi.lib\_probes\default\AnalogWaveformProbe_DBL.vi"/>
+        </Custom>
+      </Probes>
+    </VI>
+    <VI name="~POC - Video Player.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1395"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
