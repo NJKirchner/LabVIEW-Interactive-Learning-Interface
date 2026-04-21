@@ -1,0 +1,15 @@
+[project]
+labview-version = 2026
+vipc = ""
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+lava_lib_tree_control = "1.0.0-1"
+jdp_science_jsontext = "1.9.1.125"
+lava_lib_ui_tools = "1.4.1.74"
+qsi_qcontrol_toolkit = "3.1.3.26"
+sklein_lib_webview2 = "2.1.1.2"
+sklein_lib_webview2_qcontrol = "2.1.0.4"
